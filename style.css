@@ -1,0 +1,46 @@
+table {
+    border-spacing: 5px;
+    border: white;
+    text-align: center;
+    border-spacing: 2rem;
+    
+}
+h1 {
+    text-align-last: center;
+    color: Red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 5rem;
+}
+tr >td {
+    align-items: center;
+}
+ .c1 {
+    background-color: aqua;
+ }
+ .c2 {
+    background-color: rgb(88, 30, 223);
+ }
+ .c3 {
+    background-color: rgb(148, 236, 32);
+ }
+ .c4 {
+    background-color: rgb(23, 212, 102);
+ }
+ .c5 {
+    background-color: rgb(157, 255, 0);
+ }
+ .c6 {
+    background-color: rgb(17, 59, 175);
+ }
+ .c7 {
+    background-color: rgb(43, 206, 111);
+ }
+ .c8 {
+    background-color: rgb(175, 125, 17);
+ }
+ .c0 {
+    background-color: rgb(175, 17, 17);
+ }
+ .c9 {
+    background-color: rgb(247, 245, 242);
+ }
